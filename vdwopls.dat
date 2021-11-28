@@ -1,6 +1,6 @@
 GROMACS
 full-atom                                                        
-name                      bond_type    epsilon(kcal/mol)                     sigma(Å)
+name                      atom_type    epsilon(kcal/mol)                     sigma(Å)
 opls_001                      C                      0.105                      3.75
 opls_002                      O                      0.21                      2.96
 opls_003                      N                      0.17                      3.25
